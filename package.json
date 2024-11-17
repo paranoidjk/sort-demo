@@ -1,0 +1,11 @@
+{
+  "name": "sort-demo",
+  "version": "1.0.0",
+  "main": "lib/index.mjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
